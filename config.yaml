@@ -1,0 +1,7 @@
+datadir: 'data/KNMI.txt.tsv'
+glucosedir: '../study_cases/data/glucose.json'
+condition: '../study_cases/data/conditions.csv'
+patients: '../study_cases/data/patients.csv'
+observations: '../study_cases/data/observations.csv'
+careplans: '../study_cases/data/careplans.csv'
+encounters: '../study_cases/data/encounters.csv'
